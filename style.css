@@ -1,0 +1,34 @@
+body {
+    background-color: lightgreen;
+    color: green;
+}
+
+header {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold; 
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-bottom: 9px;
+    font-size: 18px;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    width: 220px;
+    height: 100%;
+    background-color: antiquewhite;
+}
+
+
+
+
